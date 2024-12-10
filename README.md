@@ -8,6 +8,6 @@ I am attaching the files and link to one of those viewers that is easy to setup 
  
 	=> "imgs only": only the DICOM files (smaller in size) which can be used with the DICOM viewer that you download.
 
-[DICOM VIEWER LINK] https://www.onis-viewer.com/ProductInfo.aspx?id=19
+[DICOM VIEWER LINK] https://www.onis-viewer.com/ProductInfo.aspx?id=19/
 
-[GOOGLE DRIVE LINK] https://drive.google.com/drive/folders/1EeHp-ymAd03AvAJQDwbrIRCOG5hlb0z1?usp=sharing
+[GITHUB LINK] https://github.com/alcatrazxlr8/mri/
