@@ -1,0 +1,5 @@
+[Autorun]
+Open=.\Launch.exe
+Action=Run Sorna Catapult
+Icon=.\Catapult\Launch.ico
+Label=Sorna Catapult

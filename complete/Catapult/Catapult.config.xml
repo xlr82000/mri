@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ViewerConfiguration>
+		<Path>Weasis.exe</Path>
+		<WorkingDirectory>./</WorkingDirectory>
+		<Arguments></Arguments>
+		<DecryptDicomToTempStorage>true</DecryptDicomToTempStorage>
+		<CacheCDRomDataLocally>false</CacheCDRomDataLocally>
+		<CacheReserve>1073741824</CacheReserve>
+	</ViewerConfiguration>
+	<ExportConfiguration>
+		<CopyDicomOnly>true</CopyDicomOnly>
+		<TargetFolder>C:\</TargetFolder>
+	</ExportConfiguration>
+</CatapultConfiguration>
