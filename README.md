@@ -10,4 +10,4 @@ I am attaching the files and link to one of those viewers that is easy to setup 
 
 [DICOM VIEWER LINK] https://www.onis-viewer.com/ProductInfo.aspx?id=19/
 
-[GITHUB LINK] https://github.com/alcatrazxlr8/mri/
+[GITHUB LINK] https://github.com/xlr82000/mri/
